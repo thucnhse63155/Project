@@ -26,6 +26,7 @@ public class PetCareSystem {
 //        petCareHospital.searchDog();
         petCareHospital.Update();
         petCareHospital.printDogListByIdAsc();
+        System.out.println("abcdefg...");
     }
     
 }
