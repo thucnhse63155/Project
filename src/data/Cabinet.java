@@ -44,6 +44,7 @@ public class Cabinet {
         // Đã đủ infor của Dog -> New để bỏ vào giỏ !
         bag.put(id, new Dog(name, id, yob, weight));
         System.out.println("The dog #" + bag.size() + "has been added");
+        System.out.println("Thuc deptraivl");
     }
 
     public void printDogListByIdAsc() {
