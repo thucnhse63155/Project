@@ -53,6 +53,9 @@ public class Cabinet {
             return;
         }
         System.out.println("The dog list");
+        System.out.println("The dog list");
+        System.out.println("The dog list");
+        System.out.println("The dog list");
         for (Dog x : bag.values()) {
             x.showDetailed();
         }
