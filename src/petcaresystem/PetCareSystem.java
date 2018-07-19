@@ -27,8 +27,12 @@ public class PetCareSystem {
         petCareHospital.Update();
         petCareHospital.printDogListByIdAsc();
         System.out.println("abcdefg...");
+
          System.out.println("abcdefg...");
           System.out.println("abcdefg...");
+ System.out.println("abcdefg...");
+ System.out.println("abcdefg...");
+
     }
     
 }
