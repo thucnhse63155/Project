@@ -23,6 +23,7 @@ public class Cabinet {
         boolean idExistance; // lưu trạng thái tồn tại của id
         Scanner sc = new Scanner(System.in);
         System.out.println("Input the dog #" + bag.size());
+        System.out.println("Thuc dep trai vl");
         do {
             System.out.println("Input the dog id: ");
             id = sc.nextLine().trim().toUpperCase(); // cắt trằng dư, đổi qa chữ hoa cho đẹp ! 
