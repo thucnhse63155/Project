@@ -28,10 +28,8 @@ public class PetCareSystem {
         petCareHospital.printDogListByIdAsc();
         System.out.println("abcdefg...");
 
-         System.out.println("abcdefg...");
-          System.out.println("abcdefg...");
- System.out.println("abcdefg...");
- System.out.println("abcdefg...");
+         System.out.println("Thuc dep trai vcl");
+          
 
     }
     
