@@ -27,9 +27,12 @@ public class PetCareSystem {
         petCareHospital.Update();
         petCareHospital.printDogListByIdAsc();
         System.out.println("abcdefg...");
+<<<<<<< HEAD
          System.out.println("Thuc dep trai vcl");
   System.out.println("Thuc dep trai vcl");
   System.out.println("Thuc dep trai vcl");
+=======
+>>>>>>> parent of 24ea9fb... aa
     }
     
 }
