@@ -1,4 +1,4 @@
-/*
+﻿/*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
@@ -53,9 +53,6 @@ public class Cabinet {
             System.out.println("The database is empty !! Nothing to show");
             return;
         }
-        System.out.println("The dog list");
-        System.out.println("The dog list");
-        System.out.println("The dog list");
         System.out.println("The dog list");
         for (Dog x : bag.values()) {
             x.showDetailed();
