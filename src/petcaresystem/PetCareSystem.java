@@ -26,9 +26,12 @@ public class PetCareSystem {
         petCareHospital.printDogListByIdAsc();
         System.out.println("abcdefg...");
          System.out.println("Thuc dep trai vcl");
+<<<<<<< HEAD
   System.out.println("Thuc dep trai vcl");
   System.out.println("Thuc dep trai vcl");
 
+=======
+>>>>>>> parent of ed7da9a... them2dong
     }
     
 }
