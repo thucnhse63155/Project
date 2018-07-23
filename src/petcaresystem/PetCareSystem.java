@@ -19,6 +19,8 @@ public class PetCareSystem {
     public static void main(String[] args) {
         Cabinet petCareHospital = new Cabinet();
         petCareHospital.addDog();
+        petCareHospital.addDog();
+        petCareHospital.addDog();
         petCareHospital.printDogListByIdAsc();
 //        petCareHospital.searchDog();
 //        petCareHospital.searchDog();
