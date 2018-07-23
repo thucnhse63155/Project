@@ -30,8 +30,6 @@ public class PetCareSystem {
 <<<<<<< HEAD
 
          System.out.println("Thuc dep trai vcl");
-          
-
 =======
 >>>>>>> parent of 24ea9fb... aa
     }
